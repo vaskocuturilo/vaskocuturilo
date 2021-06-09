@@ -1,19 +1,8 @@
-### Hi there 👋
+<a target="_blank" href="https://github.com/vaskocuturilo">
+  <img alt="This is stats for GitHub account Vasko Cuturilo" align="center" src="https://github-readme-stats.vercel.app/api/?username=vaskocuturilo&count_private=true&show_icons=true&theme=prussian&custom_title=GitHub%20Profile%20Summary&include_all_commits=true&hide_border=true&hide_rank=true" />
+</a>
+<a target="_blank" href="https://github.com/vaskocuturilo?tab=repositories&q=&type=public">
+  <img alt="Top Program Languages: " align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaskocuturilo&theme=prussian&layout=compact&hide_border=true&custom_title=Top%20Languages&langs_count=8" />
+</a>
 
-🔭 I’m currently working on ...
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaskocuturilo)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**vaskocuturilo/vaskocuturilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">I want to add stats to my own GitHub profile</a>
