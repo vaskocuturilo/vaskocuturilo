@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World!!!!! 👋  and Welcome to my GitHub page</h1>
 <h1 align="center">👇 Following</h1>
 <h3 align="center">I'm Tony. Software Backend Developer.</h3>
-<h3 align="center">I prefer Java and Go. However, we need to remember that programming languages are only tools.</h3>
+<h3 align="center">I prefer Java and Go. Still, we must keep in mind that programming languages are only tools.</h3>
 <h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
