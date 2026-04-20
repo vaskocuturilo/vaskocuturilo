@@ -27,7 +27,8 @@ I build scalable, reliable, and production-ready backend systems.
 
 ## 🛠️ Tech Stack
 
-<p align="left" style="white-space: nowrap;">
+<p align="left">
+  <nobr>
   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="margin-right:10px;"/>
   </a>
@@ -46,8 +47,8 @@ I build scalable, reliable, and production-ready backend systems.
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   </a>
+  </nobr>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
