@@ -67,9 +67,9 @@ I build scalable, reliable, and production-ready backend systems.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=vaskocuturilo&show_icons=true&theme=tokyonight"/>
   <img src="https://github-stats-extended.vercel.app/api/?username=vaskocuturilo&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaskocuturilo&layout=compact&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=vaskocuturilo&langs_count=6&theme=dark_github"/>
 </p>
 
 ---
