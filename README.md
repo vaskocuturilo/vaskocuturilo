@@ -67,9 +67,9 @@ I build scalable, reliable, and production-ready backend systems.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=vaskocuturilo&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=vaskocuturilo&theme=tokyonight"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vaskocuturilo&layout=compact&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api?username=vaskocuturilo&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-stats-extended.vercel.app/api/streak?username=vaskocuturilo&theme=tokyonight"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaskocuturilo&layout=compact&theme=tokyonight" />
 </p>
 
 ---
