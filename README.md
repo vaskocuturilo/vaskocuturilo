@@ -67,7 +67,7 @@ I build scalable, reliable, and production-ready backend systems.
 ## 📊 GitHub Stats
 
 <p align="center">
-  (https://github-stats-extended.vercel.app/api?username=vaskocuturilo&include_all_commits=true&theme=tokyonight)
+  <img src="https://github-stats-extended.vercel.app/api?username=vaskocuturilo&include_all_commits=true&theme=tokyonight" alt="vaskocuturilo's GitHub stats">
 </p>
 
 ---
