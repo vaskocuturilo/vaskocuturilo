@@ -86,6 +86,12 @@ I build scalable, reliable, and production-ready backend systems.
 </a>
 </p>
 
+<p align="left">
+<a href="https://t.me/vaskocuturilo" target="_blank">
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png" height="30" width="40"/>
+</a>
+</p>
+
 ---
 
 ⭐ If you find my projects useful, feel free to star them and follow me!
