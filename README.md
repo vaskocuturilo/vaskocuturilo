@@ -82,7 +82,7 @@ I build scalable, reliable, and production-ready backend systems.
 
 <p align="left">
 <a href="https://medium.com/@antony-s-smirnov" target="_blank">
-<img src="https://www.vhv.rs/dpng/d/492-4928880_medium-logo-svg-hd-png-download.png" height="30" width="40"/>
+<img src="https://images.icon-icons.com/3261/PNG/512/medium_logo_icon_206723.png" height="30" width="40"/>
 </a>
 </p>
 
