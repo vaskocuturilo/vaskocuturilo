@@ -79,9 +79,10 @@ I build scalable, reliable, and production-ready backend systems.
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 </p>
+
 <p align="left">
 <a href="https://medium.com/@antony-s-smirnov" target="_blank">
-<img src="https://www.svgrepo.com/show/360559/medium-circle.svg" height="30" width="40"/>
+<img src="https://www.vhv.rs/dpng/d/492-4928880_medium-logo-svg-hd-png-download.png" height="30" width="40"/>
 </a>
 </p>
 
