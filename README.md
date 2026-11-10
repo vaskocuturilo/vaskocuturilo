@@ -88,7 +88,7 @@ I build scalable, reliable, and production-ready backend systems.
 
 <p align="left">
 <a href="https://t.me/vaskocuturilo" target="_blank">
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png" height="30" width="40"/>
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png" height="40" width="40"/>
 </a>
 </p>
 
